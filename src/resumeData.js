@@ -21,6 +21,11 @@ let resumeData = {
           "name":"twitter",
           "url":"https://twitter.com/drunken__monk?s=09",
           "className":"fa fa-twitter"
+        },
+        {
+          "name":"resume",
+          "url":"https://drive.google.com/file/d/1q3_CDNNOmzBqoOj2geV8WfwPIhWBZMr7/view",
+          "className":"fa fa-file"
         }
       ],
     "aboutme":"I am currently a final year student at Indian Institute of Information Technology,Una and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper in web deveploment with python. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
