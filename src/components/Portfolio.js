@@ -22,12 +22,11 @@ export default class Porfolio extends Component {
                       </div>
                     </a>
                   </div>
-                  <p>{item.description}</p>
                   <div style={{margin:"5px"}} >
-                        <a href={item.gitlink} target="_blank" rel="noopener noreferrer" style={{padding:"20px"}}>
+                        <a href={item.gitlink} target="_blank" rel="noopener noreferrer" style={{padding:"10px"}}>
                             <i class="fa fa-github-square fa-2x" aria-hidden="true"/>
                         </a>
-                        <a href={item.livelink}  target="_blank" rel="noopener noreferrer" style={{padding:"20px"}}>
+                        <a href={item.livelink}  target="_blank" rel="noopener noreferrer" style={{padding:"10px"}}>
                             <i class="fa fa-play-circle-o fa-2x" aria-hidden="true"></i>
                         </a>
                     </div>

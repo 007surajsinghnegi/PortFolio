@@ -51,7 +51,7 @@ let resumeData = {
         "skillname":"Javascript"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"React"
       },
       {
         "skillname":"React Native"
@@ -69,6 +69,13 @@ let resumeData = {
         "livelink":"https://clone-cf51f.web.app/"
       },
       {
+        "name":"Covid-Tracker",
+        "description":"Used React to create the Front End of this Covid-Tracker and used an API for accessing the live data . GitHub.io is used to deploy the Covid-Tracker.",  
+        "imgurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnx7BUol5PQmCbBciIX6KlxivZoRo1NQ1XYA&usqp=CAU",
+        "gitlink":"https://github.com/007surajsinghnegi/Covid-Tracker.git",
+        "livelink":"https://007surajsinghnegi.github.io/Covid-Tracker/"
+      },
+      {
         "name":"Instagram-Clone",
         "description":"Used React to create the Front End of Instagram and used Firebase for backend support (authorization and cloud database). Firebase is used to deploy the Instagram-clone.",
         "imgurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwnEYJW-xEz-zU-C81qxgdTHcTToXctChfjw&usqp=CAU",
@@ -83,12 +90,20 @@ let resumeData = {
         "livelink":"https://007surajsinghnegi.github.io/WeatherApp"
       },
       {
+        "name":"ToDo-List",
+        "description":"Used React to create the Front End of ToDo-List and used Firebase for backend support (cloud database). Firebase is used to deploy the ToDoListAPP.",  
+        "imgurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYMlPoYp1wmjXfcr_RHa5VDd-xCgpZsrdHXA&usqp=CAU",
+        "gitlink":"https://github.com/007surajsinghnegi/todo-Firebase.git",
+        "livelink":"https://todolist-b30f7.web.app/"
+      },
+      {
         "name":"Tinder-Clone",
         "description":"Used React to create the Front End of Tinder and used Firebase for backend support ( cloud database). Firebase is used to deploy the Tinder-clone.",  
         "imgurl":"https://lh3.googleusercontent.com/tPSknKHPUTRNsWt-YBQpcryIUlKiu3tjCdYgO7rFnpiRtl_oosb-oIZjM8LlHCLS5qY=w412-h732-rw",
         "gitlink":"https://github.com/007surajsinghnegi/Tinder-Clone.git",
         "livelink":"https://tinder-clone-c1c77.web.app/"
       },
+     
     ],
   }
   
